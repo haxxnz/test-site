@@ -1,4 +1,4 @@
-@font-face {
+/* @font-face {
     font-family: 'Satoshi';
     src: url('./assets/fonts/Satoshi-Light.woff2') format('woff2'),
         url('./assets/fonts/Satoshi-Light.woff') format('woff'),
@@ -17,7 +17,7 @@
     font-weight: 300;
     font-display: swap;
     font-style: italic;
-}
+} */
 
 
 @font-face {
@@ -31,7 +31,7 @@
 }
 
 
-@font-face {
+/* @font-face {
     font-family: 'Satoshi';
     src: url('./assets/fonts/Satoshi-Italic.woff2') format('woff2'),
         url('./assets/fonts/Satoshi-Italic.woff') format('woff'),
@@ -40,7 +40,7 @@
     font-display: swap;
     font-style: italic;
 }
-
+ */
 
 @font-face {
     font-family: 'Satoshi';
@@ -53,7 +53,7 @@
 }
 
 
-@font-face {
+/* @font-face {
     font-family: 'Satoshi';
     src: url('./assets/fonts/Satoshi-MediumItalic.woff2') format('woff2'),
         url('./assets/fonts/Satoshi-MediumItalic.woff') format('woff'),
@@ -61,7 +61,7 @@
     font-weight: 500;
     font-display: swap;
     font-style: italic;
-}
+} */
 
 
 @font-face {
@@ -75,7 +75,7 @@
 }
 
 
-@font-face {
+/* @font-face {
     font-family: 'Satoshi';
     src: url('./assets/fonts/Satoshi-BoldItalic.woff2') format('woff2'),
         url('./assets/fonts/Satoshi-BoldItalic.woff') format('woff'),
@@ -94,7 +94,7 @@
     font-weight: 900;
     font-display: swap;
     font-style: normal;
-}
+} */
 
 
 
