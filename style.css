@@ -166,9 +166,9 @@ header a {
 
 /* footer crap */
 footer {
-    margin: 0 auto;
     text-align: center;
     margin: 1.5rem;
+    padding: 4rem;
 }
 
 /* utility items */
